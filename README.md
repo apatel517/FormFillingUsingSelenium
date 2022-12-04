@@ -5,7 +5,7 @@
 # FormFillingusingSelenium
 
 
-The purpose of this project was to test my skills in online Corporate Test Enviorment using Selenium Webdriver By Creating an Automation Webdriver Test Scripts to Fill Out Simple Registration Form for the Ecommerce Application.
+The purpose of this project was to test my skills in Web Automation using Selenium Webdriver By Creating an Automation Webdriver Test Scripts to Fill Out Simple Registration Form for the Ecommerce Application.
 
 ## 🚀 About Me
 I am an aspirant QA Automation Enginee with having an about a year expreince working on various Self learnin Project and a Practice Project during the QA trainning  with expertise using various Automation Frameworks.
